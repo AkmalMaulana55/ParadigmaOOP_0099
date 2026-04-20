@@ -14,3 +14,11 @@ public:
     }
 };//batas class
 
+int main(){
+    Mahasiswa mhs;//object
+     mhs.nim = 2024;
+     mhs.nama = "abrs";
+     mhs.nilai = 80.5;
+
+     mhs.prindata();
+}
