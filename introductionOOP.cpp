@@ -16,9 +16,9 @@ public:
 
 int main(){
     Mahasiswa mhs;//object
-     mhs.nim = 2024;
-     mhs.nama = "abrs";
-     mhs.nilai = 80.5;
+     mhs.nim = 2022;
+     mhs.nama = "abra";
+     mhs.nilai = 90.5;
 
      mhs.prindata();
 }
